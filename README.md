@@ -31,7 +31,7 @@ A sentiment classification system that analyzes customer product reviews to dete
 
 - Python  
 - Scikit-learn  
-- NLTK / SpaCy  
+- NLTK  
 - Pandas, NumPy  
 - Streamlit  
 - Matplotlib, Seaborn
