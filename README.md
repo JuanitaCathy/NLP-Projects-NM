@@ -12,7 +12,7 @@ An AI-powered application that automates the resume screening process by matchin
 ✅ Efficient text preprocessing, model training, and deployment  
 ✅ Streamlines the hiring workflow for recruiters and HR professionals  
 
-[🔗 View Project](./Project1:ResumeScreeningApp)
+[🔗 View Project](./Project1:ResumeScreeningApplication)
 
 ---
 
